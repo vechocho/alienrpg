@@ -598,8 +598,24 @@
         "seekcover": "Buscar cobertura",
         "shakes": "Temblores",
         "SheetLabels": {
-            "Character": "Hoja de personaje"
-        }
+            "Character": "Hoja de personaje",
+            "Colony": "Hoja de colonia",
+            "Creature": "Hoja de criatura",
+            "Item": "Hoja de objeto",
+            "Planet": "Hoja de planeta",
+            "Spacecraft": "Hoja de nave espacial",
+            "Synthetic": "Hoja de sintético",
+            "Territory": "Hoja de territorio",
+            "Vehicle": "Hoja de vehículos"
+        },
+        "small": "Pequeño (-2)",
+        "spooked": "Asustado",
+        "targetCover": "Cobertura del objetivo",
+        "targetRange": " Distancia al objetivo",
+        "targetSize": "Tamaño del objetivo",
+        "tunnelvision": "Visión de túnel",
+        "twitchy": "Nervioso",
+        "YouAlreadyHaveThis": "Ya tienes esta condición, por lo que tu Estrés aumenta en +1."
     },
     "ITEM": {
         "TypeAgenda": "Agenda",
